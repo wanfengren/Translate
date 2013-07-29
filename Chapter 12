@@ -18,10 +18,11 @@ practitioners, because the capital adequacy requirements can be derived from the
 kinds of risk measures (see Alexander and Baptista 2002, for instance). Portfolio
 optimizations involving the expected shortfall have been analysed by Uryasev and
 Rockafellar (1999) and Rockafellar and Uryasev (2000, 2001).
+
     在这一章中提出了在投资组合优化方法中，将某些风险度量及其水平直接反映到金融工具的权重上。
 这些方法区别于马柯维茨投资组合,从这个意义上说,如今一些VaR或ES水平是较为客观的但却并不是一个
-有效的投资组合分配结果。因此用户可能提出这样的问题:“*应如何选择投资组合权重,使得产生的99%的
-VaR是3.5%*?”。 Alexander and Baptista (1999, 2002, 2004, 2008)以及De Giorgi（2002）对均值VaR与
+有效的投资组合分配结果。因此用户可能提出这样的问题:“应如何选择投资组合权重,使得产生的99%的
+VaR是3.5%?”。 Alexander and Baptista (1999, 2002, 2004, 2008)以及De Giorgi（2002）对均值VaR与
 均值方差投资组合提出了一个全面而简洁的比较,Durand等人（2011）近年来也对这种方法进行了调查研究。
 根据巴塞尔协议，资本充足率要求可来源于这些风险度量类型(如参见Alexander and Baptista，2002)，
 因此这些类型的投资组合优化就吸引着大量实践者。Uryasev and Rockafellar (1999)以及
@@ -30,6 +31,7 @@ Rockafellar and Uryasev(2000,2001) 分析了包含期望损失（ES）的投资�
     In a similar vein, portfolios can be optimized with respect to their draw-down.
 This type of optimization is applicable when a portfolio is benchmarked against a
 broader market index.
+
     同样，可考虑他们的回撤来进行投资组合优化。当投资组合以一广泛的市场指数为参照时，
 这种类型的优化更为适用。
 
